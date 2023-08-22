@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "dev": "nodemon Backend-emasac/index.js",
+    "start": "node Backend-emasac/index.js"
   },
   "keywords": [],
   "author": "",

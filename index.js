@@ -75,7 +75,7 @@ app.use("/api", cotizacionRoutes);
 
 // Ruta para servir los archivos HTML desde la carpeta "views"
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, '../frontend/build', 'index.html'));
+  res.sendFile(path.join(__dirname, '../Frontend-Emasac/build', 'index.html'));
 });
 
 app.use((req, res, next) => {
