@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon Backend-emasac/index.js",
-    "start": "node Backend-emasac/index.js"
+    "start": "node ./index.js"
   },
   "keywords": [],
   "author": "",
