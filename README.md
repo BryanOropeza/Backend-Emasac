@@ -40,9 +40,10 @@ Será necesario generar la base de datos en MySQL por lo que puedes usar el sigu
 Tengamos en cuenta que nuestros procesos de Mysql deberán estar en funcionamiento antes de ejecutar el programa.
 
 1. Descargamos o clonamos el repositorio
-2. Abrimos una terminal dentro de la ruta de nuestro proyecto
-3. Escribimos npm start para ejecutar el proyecto
-4. Listo, aparecerá un mensaje en la terminal indicando que el servidor se está ejecutando en el puerto 4000
+2. Cambiamos la credenciales de conexión a MySQL en el archivo config.js según las credenciales que usas.
+3. Abrimos una terminal dentro de la ruta de nuestro proyecto
+4. Escribimos npm start para ejecutar el proyecto
+5. Listo, aparecerá un mensaje en la terminal indicando que el servidor se está ejecutando en el puerto 4000
 
 Podrás verificar los endopoints de las apis desde esta ruta: http://localhost:4000/api/nombre-de-endpoint
 
