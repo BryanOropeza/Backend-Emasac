@@ -36,7 +36,7 @@ Proveer de un servicio de excelencia de transporte y logística de carga naciona
 
 ## EJECUCIÓN DE PROYECTO
 Antes de comenzar con la ejecución es necesario tener instalado - [Node js](https://nodejs.org/en), npm y - [Mysql](https://www.mysql.com/)
-Será necesario generar la base de datos en MySQL por lo que puedes usar el siguiente script para crear la base de datos correspondiente - [BD_Emasac_V](https://utpedupe-my.sharepoint.com/:w:/g/personal/ln76303601_idat_edu_pe/EZZHJCiibURAjDddzu4ly0cBI7fyVRlMYqw4mKYafUOCyg?e=WBmKoO)
+Será necesario generar la base de datos en MySQL por lo que puedes usar el siguiente script para crear la base de datos correspondiente - [BD_Emasac_V](https://drive.google.com/file/d/1WSaUESAyAEKpZkVVwr5sEE8lRCHPS9OK/view?usp=sharing)
 Tengamos en cuenta que nuestros procesos de Mysql deberán estar en funcionamiento antes de ejecutar el programa.
 
 1. Descargamos o clonamos el repositorio
